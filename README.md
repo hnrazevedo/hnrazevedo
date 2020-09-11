@@ -8,6 +8,6 @@
  ![](https://img.shields.io/github/followers/hnrazevedo?style=for-the-badge&logo=appveyor)
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=hnrazevedo&show_icons=true&theme=dark&line_height=30">
+  <img src = "https://github-readme-stats.vercel.app/api?username=hnrazevedo&show_icons=true&theme=dark&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hnrazevedo&theme=dark&hide=css,html">
 </p>
